@@ -17,4 +17,4 @@ A election audit needs to be completed for the Colorado Board of Elections. A re
 
 # Election Audit Results
 - The following image shows the complete list of lines of code with the results generated from the script. 
-- 
+![script result](Resources/script result.png)
