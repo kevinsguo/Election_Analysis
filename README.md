@@ -27,4 +27,8 @@ A election audit needs to be completed for the Colorado Board of Elections. A re
 
 ![csv_extractions](Resources/csv_extractions.png)
 
+- A pseudocode was written to highlight the steps needed to complete the task for the election anaylsis. To make the code to be compatible with future modifications, the names of the csv directory should be changed only in the shown line in the previous image. 
+
+
+
 
