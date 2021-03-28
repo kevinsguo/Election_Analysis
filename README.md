@@ -21,3 +21,7 @@ A election audit needs to be completed for the Colorado Board of Elections. A re
 - The total votes casted in the congressional election is 369,711.
 - Denver county has the largest number of cotes cast both in tota land percentage of total votes.
 - Diana DeGette won the election with 272,892 votes.
+
+# Election Audit Summary
+- The written script could be reused with any modern elections without much modification needed. However, the CSV file must be read correctly to perform the necessary script for the analyzation, and the "election_analysis.txt" must be printed in the "Analysis" directory. To do so, the code has been written as the image below:
+
